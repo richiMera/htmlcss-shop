@@ -14,50 +14,42 @@
 .tablet {
   width: 300px;
   height: 372px;
-  background: url("../img/pd1.jpg") no-repeat center;
-  /* background-size: 250px; */
-  background-color: red;
   display: inline-block;
+  background: url("../img/pd1.jpg") no-repeat center;
   position: relative;
-  /* left: 100px; */
 }
 
 .phone {
   width: 300px;
   height: 372px;
-  /* background-color: green; */
   display: inline-block;
   background: url("../img/pd2.jpg") no-repeat center;
-  /* background-size: 250px; */
   position: absolute;
   top: 0;
   left: 310px;
-  /* left: 50px; */
 }
 
 .headphone {
   width: 300px;
   height: 372px;
-  background: url("../img/pd3.jpg") no-repeat center;
   display: inline-block;
+  background: url("../img/pd3.jpg") no-repeat center;
   position: absolute;
   top: 0;
   left:620px
-  /* background: url("../img/pd3.jpg") no-repeat center; */
-  /* background-size: 250px; */
 }
 
 .s30 {
-  display: inline-block;
   background-color: green;
+  display: inline-block;
   position: absolute;
   top: 0;
   right: 0;
 }
 
 .s5 {
-  display: inline-block;
   background-color: red;
+  display: inline-block;
   position: absolute;
   top: 0;
   right: 0;
